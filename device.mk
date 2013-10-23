@@ -127,5 +127,5 @@ $(call inherit-product, device/htc/pyramid/media_htcaudio.mk)
 $(call inherit-product, frameworks/native/build/phone-xhdpi-1024-dalvik-heap.mk)
 
 # Device ID
-PRODUCT_NAME := full_pyramid
+PRODUCT_NAME := r2x2_pyramid
 PRODUCT_DEVICE := pyramid
