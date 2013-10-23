@@ -52,15 +52,10 @@ ro.max.fling_velocity=12000
 ro.min.fling_velocity=8000
 view.scroll_friction=0
 #
-# GooManger
-# NOTE: I name my roms afer alice in chains albums :)
-#
-ro.goo.developerid=Albinoman887
-ro.goo.rom=Jar-of-Flies
 #
 #### AUTO-ROTATE LOCKSCREEN ####
 # (uncomment below line to enable)
-#lockscreen.rot_override=true
+lockscreen.rot_override=true
 #
 #
 # END_PYRAMID_SYSTEM_PROPERTIES
